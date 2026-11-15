@@ -1,1 +1,1 @@
-https://ISI-DENGAN-LINK-STREAMLIT-CLOUD-KAMU.streamlit.app
+https://bike-sharing-fayyadh.streamlit.app/
